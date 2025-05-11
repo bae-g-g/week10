@@ -1,8 +1,8 @@
 # 유튜브링크
 - 작동설명
-
+https://youtu.be/zwd3GKvCSxg?si=nDjShfThVRDAVZ3A
 - 코드설명
-
+https://youtu.be/77Cm22JIbjk?si=3-wCEzwBd5EIzSng
 
 # 회로설명
 ![스크린샷 2025-05-11 오후 11 54 08](https://github.com/user-attachments/assets/ac848158-1b99-4c2c-8eef-9a3aa3b092f6)
