@@ -44,4 +44,4 @@ https://youtu.be/77Cm22JIbjk?si=3-wCEzwBd5EIzSng
    3번 채널 이용해 펄스폭을 0~255로 매핑시켜 그 값을 밝기로 사용
 
 3. 3색 LED 색 변환 : 
-   5번 채널 사용 펄스폭이 각각 1200,1550,1900 RED,GREEN,BLUE로 선택    
+   5번 채널 사용 펄스폭이 1200=RED,1550=GREEN,1900=BLUE로 선택    
